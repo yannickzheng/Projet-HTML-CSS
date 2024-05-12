@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+  }
+  
+img {
+    width: 100%;
+}
+
+body {
+    background: url("images/backgroundcss.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color : white;
+}
+#traduction {font-family: 'Alex Brush', cursive;}
+  
+html,
+body {height:100%;}
+html {display:table; width:100%;}
+body {display:table-cell; text-align:center; vertical-align:middle; color: black; font: 33px verdana;}
+
+
+#slideshow { 
+    margin: 50px auto; 
+    position: relative; 
+    width: 100%; 
+    padding: 10px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+}
+
+#slideshow > div { 
+    margin: 10px;
+    position: relative; 
+    height: 100%;
+    border: solid black;
+
+}
+
+.choix {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 50px;
+}
+
+a:link{
+    color : blue;
+}
+a:visited{
+    color : gray;
+}
+a:hover{
+    color : green;
+}
