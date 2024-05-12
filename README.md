@@ -9,6 +9,12 @@ réponses effectués par l’utilisateur sur la page.
 
 
 ```
-Dans le répertoire "pages", ouvrir le fichier "accueil.html". 
+Télécharger l'intégralité du projet.
+Dans le répertoire "pages", ouvrir le fichier "accueil.html".
+Vous arriverez ensuite sur la page d'accueil de l'histoire
+
+
+
+ 
 
 
