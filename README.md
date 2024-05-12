@@ -1,2 +1,14 @@
-# Projet-HTML-CSS
-Creation of a website featuring an interactive story in HTML/CSS. This fictitious story evolves according to the user's made by the user on the page.
+
+# Projet HTML/CSS
+
+Création d’un site web qui propose une histoire interactive en
+HTML/CSS. Cette histoire fictive évolue en fonction des choix de
+réponses effectués par l’utilisateur sur la page.
+
+
+
+
+```
+Dans le répertoire "pages", ouvrir le fichier "accueil.html". 
+
+
